@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimen_title_size">16sp</dimen>
+    <dimen name="dimen_writer_size">14sp</dimen>
+    <dimen name="dimen_section_size">12sp</dimen>
+    <dimen name="dimen_date_size">12sp</dimen>
+    <dimen name="dimen_padding">10dp</dimen>
+</resources>

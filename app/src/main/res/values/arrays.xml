@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Array for order-by labels -->
+    <string-array name="settings_order_by_labels">
+        <item>@string/settings_order_by_most_relevant_label</item>
+        <item>@string/settings_order_by_most_recent_label</item>
+    </string-array>
+
+    <!-- Array for order-by values -->
+    <string-array name="settings_order_by_values">
+        <item>@string/settings_order_by_most_relevant_value</item>
+        <item>@string/settings_order_by_most_recent_value</item>
+    </string-array>
+
+    <!-- Array for section (labels&values) -->
+    <string-array name="settings_sections">
+        <item>@string/settings_section_business</item>
+        <item>@string/settings_section_culture</item>
+        <item>@string/settings_section_education</item>
+        <item>@string/settings_section_environment</item>
+        <item>@string/settings_section_fashion</item>
+        <item>@string/settings_section_film</item>
+        <item>@string/settings_section_music</item>
+        <item>@string/settings_section_politics</item>
+        <item>@string/settings_section_science</item>
+        <item>@string/settings_section_sport</item>
+        <item>@string/settings_section_technology</item>
+        <item>@string/settings_section_travel</item>
+        <item>@string/settings_section_world</item>
+    </string-array>
+
+</resources>

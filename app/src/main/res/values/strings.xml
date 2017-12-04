@@ -1,0 +1,50 @@
+<resources>
+    <!-- Name of the app -->
+    <string name="app_name">News Feed App</string>
+
+    <!-- Error message when there is no internet connectivity -->
+    <string name="no_internet_connection">No internet connection.</string>
+
+    <!-- Text to display in the list when there are no news -->
+    <string name="no_news">No news found.</string>
+
+    <!-- Settings menu item -->
+    <string name="settings_menu_item">Settings</string>
+
+    <!-- Settings activity title -->
+    <string name="settings_title">News Feed Settings</string>
+
+    <!-- Strings for order-by preference -->
+    <string name="settings_order_by_label">Order by</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_default" translatable="false">@string/settings_order_by_most_recent_value</string>
+
+    <!-- Label for order-by most relevant option -->
+    <string name="settings_order_by_most_relevant_label">most relevant</string>
+    <string name="settings_order_by_most_relevant_value" translatable="false">relevance</string>
+
+    <!-- Label for order-by most recent option -->
+    <string name="settings_order_by_most_recent_label">most recent</string>
+    <string name="settings_order_by_most_recent_value" translatable="false">newest</string>
+
+    <!-- Strings for section of preference -->
+    <string name="settings_section_by_label">Section</string>
+    <string name="settings_section_by_key" translatable="false">section</string>
+    <string name="settings_section_by_default" translatable="false">@string/settings_section_world</string>
+
+    <!-- Strings for section categories (label and value are same) -->
+    <string name="settings_section_business" translatable="false">business</string>
+    <string name="settings_section_culture" translatable="false">culture</string>
+    <string name="settings_section_education" translatable="false">education</string>
+    <string name="settings_section_environment" translatable="false">environment</string>
+    <string name="settings_section_fashion" translatable="false">fashion</string>
+    <string name="settings_section_film" translatable="false">film</string>
+    <string name="settings_section_music" translatable="false">music</string>
+    <string name="settings_section_politics" translatable="false">politics</string>
+    <string name="settings_section_science" translatable="false">science</string>
+    <string name="settings_section_sport" translatable="false">sport</string>
+    <string name="settings_section_technology" translatable="false">technology</string>
+    <string name="settings_section_travel" translatable="false">travel</string>
+    <string name="settings_section_world" translatable="false">world</string>
+
+</resources>
