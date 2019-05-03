@@ -37,7 +37,7 @@ public class SettingsActivity extends AppCompatActivity {
         }
 
         // onPreferenceChange() method is invoked with the key of the preference that was changed
-        // in oder to save changes.
+        // in order to save changes.
         @Override
         public boolean onPreferenceChange(Preference preference, Object value) {
             String stringValue = value.toString();

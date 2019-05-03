@@ -133,8 +133,11 @@ public class MainActivity extends AppCompatActivity
         uriBuilder.appendQueryParameter("page-size", "20");
         uriBuilder.appendQueryParameter("api-key", "89867c4d-5bcd-46d1-8205-d34fedd9d876");
 
+        Log.i(LOG_TAG, "TEST URL:" + uriBuilder.toString());
+
         // Create a new loader for the given URL
         return new NewsLoader(this, uriBuilder.toString());
+
     }
 
     @Override
